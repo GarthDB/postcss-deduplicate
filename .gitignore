@@ -1,0 +1,15 @@
+# Logs
+logs
+docs.json
+*.log
+npm-debug.log*
+.DS_Store
+/lib
+/bin
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm

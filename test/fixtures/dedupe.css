@@ -1,0 +1,47 @@
+.button {
+  background: blue;
+}
+
+.button:before,
+.button:after {
+  top: -1px;
+}
+
+.button:before {
+  color: white;
+}
+
+.button {
+  background: transparent;
+}
+
+.button {
+  background: black;
+}
+
+.button {
+  background: black;
+}
+
+.button {
+  background: red;
+}
+
+.button {
+  background: black;
+}
+
+.button {
+  background: green;
+  z-index: 1;
+}
+
+.button {
+  background: green;
+  z-index: 1;
+}
+
+.button {
+  background: transparent;
+}
+
