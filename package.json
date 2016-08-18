@@ -1,6 +1,6 @@
 {
   "name": "postcss-deduplicate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "PostCSS plugin to remove duplicate class definitions",
   "main": "lib/index.js",
   "scripts": {

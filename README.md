@@ -4,7 +4,11 @@
 
 ---
 
-PostCSS plugin to remove duplicate class definitions
+<a href="http://postcss.org/"><img align="right" width="95" height="95"
+     title="Philosopher’s stone, logo of PostCSS"
+     src="http://postcss.github.io/postcss/logo.svg"></a>
+
+PostCSS plugin to remove duplicate class definitions. Based on [Kristofer Joseph](http://twitter.com/dam)'s [rework-deduplicate](https://github.com/kristoferjoseph/rework-deduplicate) plugin.
 
 ## Install
 
